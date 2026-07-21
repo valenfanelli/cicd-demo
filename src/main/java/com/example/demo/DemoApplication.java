@@ -14,6 +14,6 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello from EC2 via GitHub Actions! v1";
+		return "Hello from EC2 via GitHub Actions! - Valen Testing";
 	}
 }
